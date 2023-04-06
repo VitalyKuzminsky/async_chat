@@ -1,0 +1,25 @@
+{
+    "orders": [
+        {
+            "item": "\u0422\u043e\u0432\u0430\u0440 1",
+            "quantity": 1,
+            "price": 1000,
+            "buyer": "\u0418\u0432\u0430\u043d\u043e\u0432",
+            "date": "04.04.2023"
+        },
+        {
+            "item": "Quantity 2",
+            "quantity": 2,
+            "price": 2000,
+            "buyer": "Sidorov",
+            "date": "05.04.2023"
+        },
+        {
+            "item": "\u0442\u043e\u0432\u0430\u0440 3",
+            "quantity": 3,
+            "price": 3000,
+            "buyer": "\u041a\u0443\u0437\u043d\u0435\u0446\u043e\u0432",
+            "date": "06.04.2023"
+        }
+    ]
+}

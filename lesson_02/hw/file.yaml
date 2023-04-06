@@ -1,0 +1,9 @@
+money: 100
+price:
+  bread: 0.5€
+  cheese: 5€
+  milk: 1€
+product:
+- cheese
+- milk
+- bread
